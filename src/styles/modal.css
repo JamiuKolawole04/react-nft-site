@@ -1,0 +1,112 @@
+.modal__wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #14141f8a;
+    z-index: 4444444;
+}
+
+.single__modal {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+    transform: translate(-50%, -50%);
+    background: var(--ashColor);
+    border-radius: 4px;
+    padding: 28px;
+    z-index: 5555555;
+    cursor: pointer;
+}
+
+.single__modal h6,
+.single__modal .money {
+    font-size: 1.1rem;
+    font-weight: var(--fw5);
+}
+
+.single__modal h6 {
+    margin-bottom: 12px;
+}
+
+.single__modal .money {
+    color: var(--whiteColor);
+}
+
+.input__item input {
+    width: 100%;
+    border: 1px solid rgba(221, 221, 221, 0.274);
+    background: transparent;
+    color: var(--whiteColor);
+    padding: 8px 24px;
+    border-radius: 4px;
+    outline: none;
+    font-size: .8rem;
+}
+
+.input__item h6 {
+    font-size: .9rem;
+    color: var(--whiteColor);
+}
+
+.place__bid-btn {
+    padding: 8px 24px;
+    border: none;
+    outline: none;
+    width: 120px;
+    margin: auto;
+    background: #5142fc;
+    color: var(--whiteColor);
+    border-radius: 48px;
+    font-size: .8rem;
+    display: block;
+    margin-top: 16px;
+}
+
+.close__modal {
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    z-index: 666666;
+}
+
+.close__modal i {
+    padding: 4px;
+    background: var(--mainBlue);
+    color: var(--whiteColor);
+    border-radius: 48px;
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .single__modal {
+        width: 300px;
+        height: auto;
+    }
+
+    .single__modal h6 {
+        font-size: .9rem;
+    }
+
+    .single__modal p {
+        font-size: .8rem;
+        margin-bottom: 0;
+    }
+
+    .single__modal .money {
+        font-size: .8rem;
+    }
+
+    .input__item h6 {
+        font-size: .7rem;
+    }
+
+    .input__item input {
+        padding: 4px 20px;
+        font-size: .7rem;
+    }
+}

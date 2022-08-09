@@ -1,0 +1,139 @@
+/* @import Roboto fonts */
+@charset "utf-8";
+
+
+:root {
+    --whiteColor: #fff;
+    --primaryColor: #e250e5;
+    --ashColor: #343444;
+    --dark: #141414;
+    --mainBlue: #514cfc;
+    --fw4: 400;
+    --fw5: 500;
+    --background-gradient: linear-gradient(-45deg, #e250e5, #4b50e5, #e250e5, #4b50e5);
+    --bg-size-100: 100% 100%;
+    --bg-clip-text: text;
+}
+
+*,
+::before,
+::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #14141f;
+    font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2 {
+    color: var(--whiteColor);
+    font-weight: var(--fw5);
+    font-size: 2rem;
+}
+
+p {
+    font-weight: var(--fw4);
+    font-size: 1rem;
+    color: var(--whiteColor);
+    opacity: 85%;
+    line-height: 24px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+a {
+    color: unset;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+section,
+footer {
+    padding: 60px 0;
+}
+
+
+::-webkit-scrollbar {
+    width: 12px;
+    background: var(--ashColor);
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 2em;
+    background: var(--background-gradient);
+}
+
+sc scrollbar-thumb {
+    border-radius: 2em;
+    background: var(--background-gradient);
+}
+
+
+/* HEADER STYLES
+=============================================== =============================*/
+@import url("../styles/header.css");
+
+/* FOOTER STYLES
+================================================ ============================*/
+@import url("../styles/footer.css");
+
+/* HERO SECTION STYLES
+================================================ =============================*/
+@import url("../styles/hero-section.css");
+
+/* LIVE AUCTION STYLES
+================================================ ===============================*/
+@import url("../styles/live-auction.css");
+
+/* SELLER STYLES
+================================================ ================================*/
+@import url("../styles/seller.css");
+
+
+/* TRENDING STYLES
+=================================================== ================================*/
+@import url("../styles/trending.css");
+
+/* STEP SECTION STYLES
+=================================================== =================================*/
+@import url("../styles/step-section.css");
+
+/* NFT CARD
+=================================================== ===================================*/
+@import url("../styles/nft-card.css");
+
+/* MODAL STYLES
+==================================================== ===================================*/
+@import url("../styles/modal.css");
+
+/* COON SECTION
+===================================================== ====================================*/
+@import url("../styles/common-section.css");
+
+/* MARKET STYLES
+====================================================== ====================================*/
+@import url("../styles/market.css");
+
+/* NFT DETAILS
+======================================================= =====================================*/
+@import url("../styles//nft-details.css");
+
+/* CREATE ITEM STYLES
+======================================================== =====================================*/
+@import url("../styles/create-item.css");
+
+/* WALLET 
+======================================================== ======================================*/
+@import url("../styles/wallet.css");

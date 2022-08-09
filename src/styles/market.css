@@ -1,0 +1,31 @@
+.all__category__filter select,
+.all__items__filter select,
+.filter__right select {
+    padding: 8px 24px;
+    color: var(--whiteColor);
+    font-size: .8rem;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: var(--ashColor);
+    border-radius: 4px;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .all__category__filter select,
+    .all__items__filter select,
+    .filter__right select {
+        padding: 4px 20px;
+        font-size: .7rem;
+    }
+}
+
+@media only screen and (max-width: 456px) {
+
+    .all__category__filter select,
+    .all__items__filter select,
+    .filter__right select {
+        width: 90%;
+    }
+}

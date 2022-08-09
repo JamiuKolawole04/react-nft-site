@@ -1,0 +1,33 @@
+.wallet__item {
+    background: var(--ashColor);
+    padding: 16px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.wallet__item span {
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--whiteColor);
+    display: block;
+    margin: auto;
+}
+
+.wallet__item span i {
+    font-size: 2.5rem;
+}
+
+.wallet__item h5 {
+    color: var(--whiteColor);
+    margin-top: 16px;
+}
+
+.wallet__item p {
+    font-size: .9rem;
+    line-height: 28px;
+}
