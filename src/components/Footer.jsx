@@ -67,7 +67,7 @@ export const Footer = () => {
                     <Col lg="3" md="6" sm="6" className="mb-4">
                         <div className="logo">
                             <h2 className="d-flex gap-2 align-items-center"><span className="d-flex gap-2 align-items-center"><i className="ri-fire-fill"></i></span>NFTS</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus rem animi voluptatum esse non officia fugiat aspernatur vel temporibus quia.</p>
+                            <p>A decentralized marketplace that allows users to buy, sell and discover and collect non-fungible tokens.</p>
                         </div>
                     </Col>
 

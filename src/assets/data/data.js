@@ -20,7 +20,7 @@ export const NFT__DATA = [
   {
     id: "01",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Travel Monkey is a collection of 2,000 unique Travel Monkey NFTS -  Unparalleled digital collectibles built on Ethereum blockchain. Your Travel Monkey club doubles as your Travel Monkey Club membership card and grant access to members-only benefits.",
     imgUrl: img01,
     creator: "Trista Francis",
     creatorImg: ava01,
@@ -30,9 +30,9 @@ export const NFT__DATA = [
   {
     id: "02",
     title: "Sir Lion Swag",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "The Sir Lion Swag is a collection of up to 9,000 Swags that can only be exposing by curbing existing Lion Swag to a vital of LION SERUM or by minting in a public sale.",
     imgUrl: img02,
-    creator: "Trista Francis",
+    creator: "Jose Bryan",
     creatorImg: ava02,
     currentBid: 5.09,
   },
@@ -40,7 +40,7 @@ export const NFT__DATA = [
   {
     id: "03",
     title: "Civilian",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Civilian is the best curated offering in the NFT product suite. Submissions are made by individual artists or collaborations and approved by the civilian panel before going live to the market.",
     imgUrl: img03,
     creator: "Trista Francis",
     creatorImg: ava03,
@@ -50,7 +50,7 @@ export const NFT__DATA = [
   {
     id: "04",
     title: "Guard",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "A modern brand for web3. Built by the community.The Guard starts with a collection of 40,000 avaters that give you membership access to the Guard: a decentralized internet where artists, builders and web3 enthusiasts meet to create a decentralized future.",
     imgUrl: img04,
     creator: "Trista Francis",
     creatorImg: ava04,
@@ -59,8 +59,8 @@ export const NFT__DATA = [
 
   {
     id: "05",
-    title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    title: "Cool Pets",
+    desc: "Cool Pets is a collection of 1,111 randomly generated and artistically curated NFTs that live on the Ehereum Blockchain. Cool Pet holders can participate in exclusive events like NFT raffles, giveaways and others.",
     imgUrl: img05,
     creator: "Trista Francis",
     creatorImg: ava05,
@@ -69,8 +69,8 @@ export const NFT__DATA = [
 
   {
     id: "06",
-    title: "Sir Lion Swag",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    title: "Barnes Yatch",
+    desc: "A community-driven collectibles project featuring art by Live Joses. Barnes come in a joyful range of colors, traits and sizes with a collection size of 7,000. Each Barnes Yatch give its owner to vote for experiences and energizing paid for by the Barnes Yatch Treasury Board.",
     imgUrl: img06,
     creator: "Trista Francis",
     creatorImg: ava06,
@@ -79,8 +79,8 @@ export const NFT__DATA = [
 
   {
     id: "07",
-    title: "Civilian",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    title: "Harlemz",
+    desc: "A collection 0f 3, 232 medium amphibious elfs trying to escape the tyrannical rule of the Evil King Garullo. Created by Moana, with a little help from his friends. Feel free to useHarlemz in any way you want.",
     imgUrl: img07,
     creator: "Trista Francis",
     creatorImg: ava03,
@@ -89,8 +89,8 @@ export const NFT__DATA = [
 
   {
     id: "08",
-    title: "Guard",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    title: "General world",
+    desc: "A community celebrating representation, inclusivity and equal immunity and benefit for all Featuring 20,000 artworks of diverse and powerful homosapiens.",
     imgUrl: img08,
     creator: "Trista Francis",
     creatorImg: ava04,
@@ -99,8 +99,8 @@ export const NFT__DATA = [
 
   {
     id: "09",
-    title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    title: "MiddleRoad Fren",
+    desc: "Welcome to an alternate reality, where evolution took a different route and weird apes roam the earth. Some appear great. Some look weird. And some are just damn cool! Every MiddleRoad is unique and owns randomized items with different rarities.",
     imgUrl: img09,
     creator: "Trista Francis",
     creatorImg: ava05,

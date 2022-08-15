@@ -11,7 +11,7 @@ export const HeroSection = () => {
                     <Col lg="6" md="6">
                         <div className="hero__content">
                             <h2>Discover rare digital art and collect <span>sell extraordinary</span> NFTS</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In tenetur non deserunt ipsum labore nisi quisquam architecto beatae est voluptates!</p>
+                            <p>Join to create, showcase and sell your digital artworks.Digitally sign your work by creating a tokenized certificate</p>
 
                             <div className="hero__btns d-flex align-items-center gap-4">
                                 <button className="explore__btn d-flex align-items-center gap-2"> <i className="ri-rocket-line"></i> <Link to="/market">Explore</Link></button>

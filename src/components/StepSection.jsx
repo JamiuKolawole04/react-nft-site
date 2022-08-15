@@ -5,22 +5,22 @@ export const StepSection = () => {
     const STEP_DATA = [
         {
             title: "Setup your wallet",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, voluptatibus minus error vel ex voluptates!",
+            desc: "Connect your wallet to securely store and receive  your payment ",
             icon: "ri-wallet-line",
         },
         {
             title: "Create your collection",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, voluptatibus minus error vel ex voluptates!",
+            desc: "create your collection  with cheap upfront fees using your own artwork and ideas, ",
             icon: "ri-layout-masonry-line",
         },
         {
             title: "Add your nfts",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, voluptatibus minus error vel ex voluptates!",
+            desc: "Import your nfts or create one to get starte with your nft journey.",
             icon: "ri-image-line",
         },
         {
             title: "List them for sale",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, voluptatibus minus error vel ex voluptates!",
+            desc: "Store and display your artwork for sales with considerable gas fees.",
             icon: "ri-list-check",
         },
     ];

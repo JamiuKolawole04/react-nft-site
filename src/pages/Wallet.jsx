@@ -36,7 +36,7 @@ export const Wallet = () => {
                         <Col lg="12" className="mb-5 text-center">
                             <div className="w-50 m-auto">
                                 <h3 className="text-light">Connect your wallet</h3>
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo quisquam, autem architecto cupiditate deleniti laborum reiciendis. Error nam ex totam!</p>
+                                <p>Set up your wallet of choice and connect it to the our platform</p>
                             </div>
                         </Col>
 
