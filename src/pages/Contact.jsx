@@ -22,7 +22,7 @@ export const Contact = () => {
                     <Row>
                         <Col lg="6" md="6" className="m-auto text-center">
                             <h2>Drop a Message</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae placeat pariatur suscipit veritatis quae deserunt delectus nostrum vitae odio molestias.</p>
+                            <p>Having problems with connecting you wallets, uploading your art works, creating ypur nfts and other techical problems? Fill in the form below.</p>
 
                             <div className="contact mt-4">
                                 <form onSubmit={handleSubmit} >
