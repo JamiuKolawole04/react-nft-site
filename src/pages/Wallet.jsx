@@ -7,22 +7,22 @@ export const Wallet = () => {
     const WALLET_DATA = [
         {
             title: "Bitcoin",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt hic cupiditate saepe autem reprehenderit dolorem!",
+            desc: "Get started with your external offline or online bitcoin wallet",
             icon: "ri-bit-coin-line"
         },
         {
             title: "Coinbase",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt hic cupiditate saepe autem reprehenderit dolorem!",
+            desc: "Connect your token wallet easily through coinbase in a click with utmost security",
             icon: "ri-coin-line"
         },
         {
             title: "Metamask",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt hic cupiditate saepe autem reprehenderit dolorem!",
+            desc: "Connect your metamask wallet and kick start your journey into the world of nft",
             icon: "ri-money-cny-circle-line"
         },
         {
             title: "Ethereum",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt hic cupiditate saepe autem reprehenderit dolorem!",
+            desc: "coonect your ethereum wallet to send transactions and connect applications and tokens",
             icon: "ri-bit-coin-line"
         },
     ];
